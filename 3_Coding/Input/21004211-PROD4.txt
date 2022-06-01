@@ -1,0 +1,83 @@
+13-Aug-2020
+11:13:28 ** Starting job 21004211 (Pay Run) at 11:13:28 on 13-Aug-2020
+11:13:30  - Processing Payroll...
+11:13:32  - Processing Payroll for Company 1340 - START
+11:13:32  - Calculating Employee 221022
+11:13:35  - Calculating Employee 221023
+11:13:36  - Calculating Employee 221024
+11:13:37  - Calculating Employee 221025
+11:13:38  - Calculating Employee 221026
+11:13:39  - Calculating Employee 221027
+11:13:40  - Calculating Employee 221028
+11:13:42  - Calculating Employee 221029
+11:13:43  - Calculating Employee 221030
+11:13:44  - Calculating Employee 221031
+11:13:45  - Calculating Employee 221032
+11:13:46  - Calculating Employee 221033
+11:13:48  - Calculating Employee 221034
+11:13:57  - Calculating Employee 221035
+11:13:59  - Calculating Employee 221036
+11:14:02  - Calculating Employee 221037
+11:14:04  - Calculating Employee 221038
+11:14:05  - Calculating Employee 221039
+11:14:06  - Calculating Employee 221040
+11:14:07  - Calculating Employee 221041
+11:14:09  - Calculating Employee 221049
+11:14:13  - Calculating Employee 221051
+11:14:17  - Calculating Employee 221054
+11:14:20  - Calculating Employee 221072
+11:14:23  - Calculating Employee 221073
+11:14:27  - Calculating Employee 221074
+11:14:29  - Calculating Employee 221090
+11:14:33  - Calculating Employee 221093
+11:14:35  - Calculating Employee 221123
+11:14:38  - Calculating Employee 221152
+11:14:41  - Calculating Employee 221154
+11:14:44  - Calculating Employee 221163
+11:14:49  - Calculating Employee 221166
+11:14:52  - Calculating Employee 221177
+11:14:56  - Calculating Employee 221178
+11:14:59  - Calculating Employee 221179
+11:15:04  - Calculating Employee 221180
+11:15:06  - Calculating Employee 221181
+11:15:09  - Calculating Employee 221186
+11:15:12  - Calculating Employee 221188
+11:15:17  - Calculating Employee 221192
+11:15:20  - Calculating Employee 221194
+11:15:23  - Calculating Employee 221195
+11:15:27  - Calculating Employee 221198
+11:15:29  - Calculating Employee 221200
+11:15:33  - Calculating Employee 221203
+11:15:36  - Calculating Employee 221204
+11:15:37  - Calculating Employee 221205
+11:15:40  - Calculating Employee 221206
+11:15:42  - Calculating Employee 221207
+11:15:48  - Calculating Employee 221208
+11:15:52  - Calculating Employee 221210
+11:15:56  - Calculating Employee 221213
+11:15:59  - Calculating Employee 221214
+11:16:04  - Calculating Employee 221217
+11:16:08  - Calculating Employee 221218
+11:16:13  - Calculating Employee 221221
+11:16:17  - Calculating Employee 221222
+11:16:20  - Calculating Employee 221223
+11:16:46  - Calculating Employee 221225
+11:16:50  - Calculating Employee 221228
+11:16:55  - Calculating Employee 221229
+11:16:58  - Calculating Employee 501247
+11:17:00  - Calculating Employee 501733
+11:17:01  - Calculating Employee 501734
+11:17:03  - Calculating Employee 501773
+11:17:04  - Calculating Employee 501793
+11:17:06  - Calculating Employee 501794
+11:17:09  - Calculating Employee 501814
+11:17:11  - Calculating Employee 501862
+11:17:15  - Calculating Employee 501883
+11:17:17  - Calculating Employee 501927
+11:17:19  - Processing Payroll for Company 1340 - END
+11:17:19  - Processing Complete...
+11:17:19  - Payroll details written to 202008131130-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008131130-PayrollProcessing001.log
+11:17:19 ** The following errors, warnings and informational messages were encountered:
+11:17:19  - WARNING: A negative pay has been generated for Employee Id: 221223 and Pay Period End Date: 21-Aug-2020. Normal nett pay amount is -6062.43.
+11:17:19 ** Completed job 21004211 (Pay Run) at 11:17:19 on 13-Aug-2020
+End of Job

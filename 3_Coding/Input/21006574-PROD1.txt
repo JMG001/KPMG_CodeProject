@@ -1,0 +1,24 @@
+13-Aug-2020
+14:04:24 ** Starting job 21006574 (Pay Run) at 14:04:24 on 13-Aug-2020
+14:04:28  - Processing Payroll...
+14:04:28  - Processing Payroll for Company 3037 - START
+14:04:28  - Calculating Employee 263370
+14:04:32  - Calculating Employee 502033
+14:04:34  - Calculating Employee 502035
+14:04:39  - Calculating Employee 502036
+14:04:41  - Calculating Employee 502038
+14:04:42  - Processing Payroll for Company 3037 - END
+14:04:42  - Processing Complete...
+14:04:42  - Payroll details written to 202008131428-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008131428-PayrollProcessing001.log
+14:04:42 ** The following errors, warnings and informational messages were encountered:
+14:04:42  - ERROR: This pay has been paid and transmitted, no changes are permitted. Employee ID: 263370, Document Type: Payroll, Pay Period End Date: 14-Aug-2020.
+14:04:42  - ERROR: This pay has been posted, no changes are permitted.  Employee ID: 263370, Document Type: P, Pay Period End Date: 14-Aug-2020.
+14:04:42  - ERROR: The Pay Record cannot be saved as this pay has already been paid on the 12-Aug-2020.
+14:04:42  - ERROR: This pay has been paid and transmitted, no changes are permitted. Employee ID: 502033, Document Type: Payroll, Pay Period End Date: 14-Aug-2020.
+14:04:42  - ERROR: This pay has been posted, no changes are permitted.  Employee ID: 502033, Document Type: P, Pay Period End Date: 14-Aug-2020.
+14:04:42  - ERROR: The Pay Record cannot be saved as this pay has already been paid on the 12-Aug-2020.
+14:04:42  - ERROR: This pay has been paid and transmitted, no changes are permitted. Employee ID: 502038, Document Type: Payroll, Pay Period End Date: 14-Aug-2020.
+14:04:42  - ERROR: This pay has been posted, no changes are permitted.  Employee ID: 502038, Document Type: P, Pay Period End Date: 14-Aug-2020.
+14:04:42  - ERROR: The Pay Record cannot be saved as this pay has already been paid on the 12-Aug-2020.
+14:04:42 ** Job 21006574 (Pay Run) Failed at 14:04:42 on 13-Aug-2020
+End of Job

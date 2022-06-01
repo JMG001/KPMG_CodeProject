@@ -1,0 +1,143 @@
+11-Aug-2020
+17:34:53 ** Starting job 20979134 (Pay Run) at 17:34:53 on 11-Aug-2020
+17:34:56  - Processing Payroll...
+17:34:57  - Processing Payroll for Company 3037 - START
+17:34:57  - Calculating Employee 263160
+17:35:00  - Calculating Employee 263161
+17:35:01  - Calculating Employee 263162
+17:35:02  - Calculating Employee 263163
+17:35:05  - Calculating Employee 263164
+17:35:06  - Calculating Employee 263165
+17:35:07  - Calculating Employee 263166
+17:35:08  - Calculating Employee 263167
+17:35:09  - Calculating Employee 263168
+17:35:10  - Calculating Employee 263170
+17:35:11  - Calculating Employee 263172
+17:35:12  - Calculating Employee 263173
+17:35:12  - Calculating Employee 263174
+17:35:14  - Calculating Employee 263175
+17:35:16  - Calculating Employee 263176
+17:35:16  - Calculating Employee 263177
+17:35:18  - Calculating Employee 263178
+17:35:19  - Calculating Employee 263179
+17:35:20  - Calculating Employee 263180
+17:35:21  - Calculating Employee 263181
+17:35:22  - Calculating Employee 263196
+17:35:24  - Calculating Employee 263221
+17:35:26  - Calculating Employee 263229
+17:35:28  - Calculating Employee 263230
+17:35:34  - Calculating Employee 263239
+17:35:36  - Calculating Employee 263269
+17:35:41  - Calculating Employee 263273
+17:35:43  - Calculating Employee 263278
+17:35:45  - Calculating Employee 263289
+17:35:48  - Calculating Employee 263301
+17:35:50  - Calculating Employee 263317
+17:35:52  - Calculating Employee 263322
+17:35:54  - Calculating Employee 263324
+17:35:56  - Calculating Employee 263326
+17:36:02  - Calculating Employee 263328
+17:36:05  - Calculating Employee 263329
+17:36:09  - Calculating Employee 263334
+17:36:11  - Calculating Employee 263338
+17:36:13  - Calculating Employee 263342
+17:36:15  - Calculating Employee 263344
+17:36:17  - Calculating Employee 263346
+17:36:19  - Calculating Employee 263347
+17:36:21  - Calculating Employee 263348
+17:36:23  - Calculating Employee 263354
+17:36:25  - Calculating Employee 263355
+17:36:27  - Calculating Employee 263357
+17:36:29  - Calculating Employee 263359
+17:36:31  - Calculating Employee 263360
+17:36:33  - Calculating Employee 263363
+17:36:36  - Calculating Employee 263364
+17:36:37  - Calculating Employee 263366
+17:36:42  - Calculating Employee 263367
+17:36:43  - Calculating Employee 263369
+17:36:47  - Calculating Employee 263370
+17:36:50  - Calculating Employee 263371
+17:36:54  - Calculating Employee 263375
+17:36:56  - Calculating Employee 263376
+17:37:04  - Calculating Employee 263382
+17:37:06  - Calculating Employee 263383
+17:37:08  - Calculating Employee 263384
+17:37:10  - Calculating Employee 263385
+17:37:12  - Calculating Employee 263386
+17:37:14  - Calculating Employee 263387
+17:37:16  - Calculating Employee 263389
+17:37:18  - Calculating Employee 263390
+17:37:20  - Calculating Employee 500398
+17:37:22  - Calculating Employee 500403
+17:37:24  - Calculating Employee 500404
+17:37:27  - Calculating Employee 500416
+17:37:29  - Calculating Employee 500417
+17:37:29  - Calculating Employee 500444
+17:37:30  - Calculating Employee 500445
+17:37:31  - Calculating Employee 500455
+17:37:32  - Calculating Employee 500458
+17:37:33  - Calculating Employee 500460
+17:37:34  - Calculating Employee 500462
+17:37:35  - Calculating Employee 500474
+17:37:36  - Calculating Employee 500622
+17:37:36  - Calculating Employee 500650
+17:37:38  - Calculating Employee 500705
+17:37:38  - Calculating Employee 500706
+17:37:39  - Calculating Employee 500707
+17:37:40  - Calculating Employee 500746
+17:37:41  - Calculating Employee 500747
+17:37:42  - Calculating Employee 500778
+17:37:43  - Calculating Employee 500779
+17:37:43  - Calculating Employee 500825
+17:37:44  - Calculating Employee 500844
+17:37:45  - Calculating Employee 500863
+17:37:47  - Calculating Employee 500864
+17:37:48  - Calculating Employee 500869
+17:37:49  - Calculating Employee 500871
+17:37:51  - Calculating Employee 500872
+17:37:52  - Calculating Employee 500873
+17:37:53  - Calculating Employee 500884
+17:37:53  - Calculating Employee 500900
+17:37:54  - Calculating Employee 500901
+17:37:56  - Calculating Employee 500937
+17:37:57  - Calculating Employee 500942
+17:37:58  - Calculating Employee 500980
+17:37:59  - Calculating Employee 501017
+17:38:00  - Calculating Employee 501019
+17:38:02  - Calculating Employee 501042
+17:38:06  - Calculating Employee 501073
+17:38:07  - Calculating Employee 501074
+17:38:08  - Calculating Employee 501095
+17:38:09  - Calculating Employee 501096
+17:38:10  - Calculating Employee 501151
+17:38:11  - Calculating Employee 501154
+17:38:12  - Calculating Employee 501249
+17:38:12  - Calculating Employee 501445
+17:38:14  - Calculating Employee 501452
+17:38:17  - Calculating Employee 501572
+17:38:20  - Calculating Employee 501690
+17:38:21  - Calculating Employee 501785
+17:38:23  - Calculating Employee 501788
+17:38:24  - Calculating Employee 501791
+17:38:25  - Calculating Employee 501792
+17:38:28  - Calculating Employee 501848
+17:38:29  - Calculating Employee 501849
+17:38:31  - Calculating Employee 501851
+17:38:32  - Calculating Employee 501852
+17:38:33  - Calculating Employee 501856
+17:38:37  - Calculating Employee 501925
+17:38:38  - Calculating Employee 501972
+17:38:39  - Calculating Employee 502024
+17:38:41  - Calculating Employee 502033
+17:38:43  - Calculating Employee 502035
+17:38:43  - Calculating Employee 502036
+17:38:44  - Calculating Employee 502038
+17:38:46  - Processing Payroll for Company 3037 - END
+17:38:46  - Processing Complete...
+17:38:46  - Payroll details written to 202008111755-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008111755-PayrollProcessing001.log
+17:38:46 ** The following errors, warnings and informational messages were encountered:
+17:38:46  - WARNING: A negative pay has been generated for Employee Id: 263376 and Pay Period End Date: 14-Aug-2020. Normal nett pay amount is -9760.53.
+17:38:46  - WARNING: Employee 501856 is taking more Leave than is available against Accrual Pay Component 7570.0.  As at 14-Aug-2020, Employee 501856 will have accrued 0 Units against Accrual Pay Component 7570.0.  Leave against Pay Component Code 1410.0 in the Pay Period Ending 14-Aug-2020 will exceed the available accrual by 5.5 Units.  The Accrual has a Minimum Value of 0 Units.  The Employee has a Pro-rata Accrual of 0 Units available.
+17:38:46  - WARNING: Employee 501856 is taking Leave in Pay Period Ending 14-Aug-2020 that will affect Leave already entered on a future Timesheet.  As at 27-Aug-2020, Employee 501856 will have accrued 0 Units against Accrual Pay Component 7570.0.  Leave against PayComponent Code 1410.0 in the Timesheet Period Ending 28-Aug-2020 will exceed the available accrual by 5.5 Units.  The Accrual has a Minimum Value of 0 Units.  The Employee has a Pro-rata Accrual of 0 Units available.
+17:38:46 ** Completed job 20979134 (Pay Run) at 17:38:46 on 11-Aug-2020
+End of Job

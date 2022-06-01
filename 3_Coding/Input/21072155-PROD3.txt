@@ -1,0 +1,55 @@
+18-Aug-2020
+12:29:16 ** Starting job 21072155 (Pay Run) at 12:29:16 on 18-Aug-2020
+12:29:20  - Processing Payroll...
+12:29:21  - Processing Payroll for Company 1056 - START
+12:29:21  - Calculating Employee 124471
+12:29:24  - Calculating Employee 124477
+12:29:31  - Calculating Employee 124512
+12:29:34  - Calculating Employee 124624
+12:29:38  - Calculating Employee 124625
+12:29:43  - Calculating Employee 124628
+12:29:46  - Calculating Employee 124633
+12:31:30  - Calculating Employee 124634
+12:32:36  - Calculating Employee 124639
+12:32:40  - Calculating Employee 124647
+12:32:42  - Calculating Employee 124650
+12:32:44  - Calculating Employee 124656
+12:32:46  - Calculating Employee 124657
+12:32:48  - Calculating Employee 124658
+12:32:51  - Calculating Employee 124659
+12:32:54  - Calculating Employee 500154
+12:32:56  - Calculating Employee 500171
+12:32:58  - Calculating Employee 500172
+12:33:00  - Calculating Employee 500173
+12:33:05  - Calculating Employee 500174
+12:33:07  - Calculating Employee 500175
+12:33:11  - Calculating Employee 500203
+12:33:15  - Calculating Employee 500204
+12:33:17  - Calculating Employee 500226
+12:33:20  - Calculating Employee 500234
+12:33:22  - Calculating Employee 500485
+12:33:24  - Calculating Employee 500494
+12:33:26  - Calculating Employee 500495
+12:33:28  - Calculating Employee 500509
+12:33:30  - Calculating Employee 500510
+12:33:32  - Calculating Employee 500647
+12:33:34  - Calculating Employee 500782
+12:33:35  - Calculating Employee 501285
+12:33:36  - Calculating Employee 501286
+12:33:38  - Calculating Employee 501287
+12:33:41  - Calculating Employee 501291
+12:33:43  - Calculating Employee 501293
+12:33:45  - Calculating Employee 501689
+12:33:46  - Calculating Employee 501691
+12:33:47  - Calculating Employee 501692
+12:33:48  - Calculating Employee 501693
+12:33:49  - Calculating Employee 501904
+12:33:53  - Calculating Employee 502009
+12:33:54  - Processing Payroll for Company 1056 - END
+12:33:54  - Processing Complete...
+12:33:55  - Payroll details written to 202008181220-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008181220-PayrollProcessing001.log
+12:33:55 ** The following errors, warnings and informational messages were encountered:
+12:33:55  - ERROR: No Banking Records Exist for Employee 124633.
+12:33:55  - ERROR: No Banking Records Exist for Employee 124634.
+12:33:55 ** Job 21072155 (Pay Run) Failed at 12:33:55 on 18-Aug-2020
+End of Job

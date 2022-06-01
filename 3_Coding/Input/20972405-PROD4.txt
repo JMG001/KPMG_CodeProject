@@ -1,0 +1,10 @@
+11-Aug-2020
+09:58:11 ** Starting job 20972405 (Pay Run) at 09:58:11 on 11-Aug-2020
+09:58:13  - Processing Payroll...
+09:58:13  - Processing Payroll for Company 1225 - START
+09:58:13  - Calculating Employee 100942
+09:58:19  - Processing Payroll for Company 1225 - END
+09:58:19  - Processing Complete...
+09:58:19  - Payroll details written to 202008110913-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008110913-PayrollProcessing001.log
+09:58:19 ** Completed job 20972405 (Pay Run) at 09:58:19 on 11-Aug-2020
+End of Job

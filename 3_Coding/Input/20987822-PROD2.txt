@@ -1,0 +1,81 @@
+12-Aug-2020
+09:41:32 ** Starting job 20987822 (Pay Run) at 09:41:32 on 12-Aug-2020
+09:41:33  - Processing Payroll...
+09:41:35  - Processing Payroll for Company 1025 - START
+09:41:35  - Calculating Employee 112113
+09:41:39  - Calculating Employee 112151
+09:41:43  - Calculating Employee 112175
+09:41:45  - Calculating Employee 112250
+09:41:48  - Calculating Employee 112259
+09:41:51  - Calculating Employee 112260
+09:41:54  - Calculating Employee 112265
+09:41:57  - Calculating Employee 112267
+09:42:00  - Calculating Employee 112273
+09:42:02  - Calculating Employee 112277
+09:42:04  - Calculating Employee 112279
+09:42:07  - Calculating Employee 112283
+09:42:08  - Calculating Employee 112287
+09:42:11  - Calculating Employee 112290
+09:42:13  - Calculating Employee 112292
+09:42:16  - Calculating Employee 112299
+09:42:18  - Calculating Employee 112301
+09:42:21  - Calculating Employee 112312
+09:42:23  - Calculating Employee 112316
+09:42:25  - Calculating Employee 112320
+09:42:28  - Calculating Employee 112321
+09:42:31  - Calculating Employee 112322
+09:42:33  - Calculating Employee 112325
+09:42:37  - Calculating Employee 112329
+09:42:39  - Calculating Employee 112340
+09:42:42  - Calculating Employee 112341
+09:42:44  - Calculating Employee 112342
+09:42:46  - Calculating Employee 112348
+09:42:49  - Calculating Employee 112350
+09:42:51  - Calculating Employee 112354
+09:42:54  - Calculating Employee 112355
+09:42:57  - Calculating Employee 112364
+09:43:04  - Calculating Employee 112366
+09:43:07  - Calculating Employee 112370
+09:43:12  - Calculating Employee 112371
+09:43:15  - Calculating Employee 112373
+09:43:18  - Calculating Employee 112374
+09:43:21  - Calculating Employee 112375
+09:43:23  - Calculating Employee 112377
+09:43:29  - Calculating Employee 112379
+09:43:31  - Calculating Employee 112381
+09:43:33  - Calculating Employee 112384
+09:43:35  - Calculating Employee 112385
+09:43:38  - Calculating Employee 112387
+09:43:43  - Calculating Employee 112389
+09:43:47  - Calculating Employee 112392
+09:43:51  - Calculating Employee 112395
+09:43:53  - Calculating Employee 112396
+09:43:58  - Calculating Employee 112397
+09:44:01  - Calculating Employee 112399
+09:44:03  - Calculating Employee 112400
+09:44:07  - Calculating Employee 112402
+09:44:10  - Calculating Employee 112403
+09:44:15  - Calculating Employee 112406
+09:44:17  - Calculating Employee 112408
+09:44:20  - Calculating Employee 112409
+09:44:25  - Calculating Employee 112410
+09:44:27  - Calculating Employee 112411
+09:44:30  - Calculating Employee 112412
+09:44:32  - Calculating Employee 112413
+09:44:34  - Calculating Employee 112414
+09:44:38  - Calculating Employee 112417
+09:44:40  - Calculating Employee 112418
+09:44:42  - Calculating Employee 112419
+09:44:44  - Calculating Employee 112421
+09:44:46  - Calculating Employee 112422
+09:44:48  - Calculating Employee 112423
+09:44:50  - Calculating Employee 112424
+09:44:54  - Calculating Employee 112425
+09:44:57  - Calculating Employee 112426
+09:45:00  - Processing Payroll for Company 1025 - END
+09:45:01  - Processing Complete...
+09:45:01  - Payroll details written to 202008120933-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008120933-PayrollProcessing001.log
+09:45:01 ** The following errors, warnings and informational messages were encountered:
+09:45:01  - WARNING: Tax has been calculated for employee '112412', however this employee is using the 'Under 18' Tax File Number 333 333 333 and should not be being paying tax.  This employee's tax file number or tax scale code may need to be changed.
+09:45:01 ** Completed job 20987822 (Pay Run) at 09:45:01 on 12-Aug-2020
+End of Job

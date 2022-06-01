@@ -1,0 +1,31 @@
+10-Aug-2020
+09:56:30 ** Starting job 20957856 (Pay Run) at 09:56:30 on 10-Aug-2020
+09:56:32  - Processing Payroll...
+09:56:34  - Processing Payroll for Company 2029 - START
+09:56:34  - Calculating Employee 240697
+09:56:36  - Calculating Employee 240700
+09:56:37  - Calculating Employee 240701
+09:56:38  - Calculating Employee 240702
+09:56:39  - Calculating Employee 240703
+09:56:42  - Calculating Employee 240704
+09:56:43  - Calculating Employee 240705
+09:56:44  - Calculating Employee 240779
+09:56:47  - Calculating Employee 500343
+09:56:48  - Calculating Employee 500382
+09:56:48  - Calculating Employee 500439
+09:56:49  - Calculating Employee 500676
+09:56:50  - Calculating Employee 500742
+09:56:51  - Calculating Employee 500743
+09:56:52  - Calculating Employee 500773
+09:56:53  - Calculating Employee 500841
+09:56:54  - Calculating Employee 501005
+09:56:55  - Calculating Employee 501006
+09:56:55  - Calculating Employee 501040
+09:56:56  - Calculating Employee 501144
+09:57:09  - Calculating Employee 501772
+09:57:11  - Calculating Employee 501869
+09:57:12  - Processing Payroll for Company 2029 - END
+09:57:12  - Processing Complete...
+09:57:12  - Payroll details written to 202008100932-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008100932-PayrollProcessing001.log
+09:57:12 ** Completed job 20957856 (Pay Run) at 09:57:12 on 10-Aug-2020
+End of Job

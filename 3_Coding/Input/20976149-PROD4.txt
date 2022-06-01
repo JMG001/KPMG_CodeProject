@@ -1,0 +1,37 @@
+11-Aug-2020
+13:59:42 ** Starting job 20976149 (Pay Run) at 13:59:42 on 11-Aug-2020
+13:59:44  - Processing Payroll...
+13:59:46  - Processing Payroll for Company 1095 - START
+13:59:46  - Calculating Employee 137962
+13:59:49  - Calculating Employee 137973
+13:59:56  - Calculating Employee 137999
+13:59:59  - Calculating Employee 138014
+14:00:02  - Calculating Employee 138062
+14:00:06  - Calculating Employee 138066
+14:00:10  - Calculating Employee 138078
+14:00:13  - Calculating Employee 138087
+14:00:16  - Calculating Employee 138094
+14:00:20  - Calculating Employee 138096
+14:00:24  - Calculating Employee 138100
+14:00:26  - Calculating Employee 138104
+14:00:29  - Calculating Employee 138109
+14:00:32  - Calculating Employee 138110
+14:00:35  - Calculating Employee 138114
+14:00:39  - Calculating Employee 138117
+14:00:46  - Calculating Employee 138121
+14:00:50  - Calculating Employee 138122
+14:00:54  - Calculating Employee 501401
+14:00:57  - Calculating Employee 501800
+14:00:59  - Calculating Employee 501880
+14:01:07  - Calculating Employee 501881
+14:01:09  - Calculating Employee 501882
+14:01:37  - Calculating Employee 501899
+14:01:40  - Calculating Employee 501926
+14:01:42  - Calculating Employee 501988
+14:01:44  - Processing Payroll for Company 1095 - END
+14:01:44  - Processing Complete...
+14:01:44  - Payroll details written to 202008111344-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008111344-PayrollProcessing001.log
+14:01:44 ** The following errors, warnings and informational messages were encountered:
+14:01:44  - ERROR: No Banking Records Exist for Employee 501882.
+14:01:44 ** Job 20976149 (Pay Run) Failed at 14:01:44 on 11-Aug-2020
+End of Job

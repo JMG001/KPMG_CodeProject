@@ -1,0 +1,53 @@
+13-Aug-2020
+13:14:00 ** Starting job 21005914 (Pay Run) at 13:14:00 on 13-Aug-2020
+13:14:03  - Processing Payroll...
+13:14:05  - Processing Payroll for Company 1341 - START
+13:14:05  - Calculating Employee 221293
+13:14:08  - Calculating Employee 221294
+13:14:11  - Calculating Employee 221295
+13:14:11  - Calculating Employee 221296
+13:14:12  - Calculating Employee 221297
+13:14:16  - Calculating Employee 221299
+13:14:17  - Calculating Employee 221300
+13:14:18  - Calculating Employee 221320
+13:14:23  - Calculating Employee 221324
+13:14:28  - Calculating Employee 221379
+13:14:35  - Calculating Employee 221415
+13:14:39  - Calculating Employee 221419
+13:14:42  - Calculating Employee 221420
+13:14:47  - Calculating Employee 221426
+13:14:54  - Calculating Employee 221436
+13:14:57  - Calculating Employee 221440
+13:15:00  - Calculating Employee 221444
+13:15:02  - Calculating Employee 221448
+13:15:04  - Calculating Employee 221450
+13:15:07  - Calculating Employee 221454
+13:15:08  - Calculating Employee 221463
+13:15:10  - Calculating Employee 221467
+13:15:12  - Calculating Employee 221472
+13:15:14  - Calculating Employee 221481
+13:15:19  - Calculating Employee 221484
+13:15:23  - Calculating Employee 221485
+13:15:26  - Calculating Employee 221487
+13:15:27  - Calculating Employee 221495
+13:15:29  - Calculating Employee 221497
+13:15:31  - Calculating Employee 221498
+13:15:33  - Calculating Employee 221499
+13:15:35  - Calculating Employee 221500
+13:15:37  - Calculating Employee 221501
+13:15:40  - Calculating Employee 221502
+13:15:43  - Calculating Employee 221507
+13:15:45  - Calculating Employee 221509
+13:15:48  - Calculating Employee 221510
+13:15:50  - Calculating Employee 221511
+13:15:53  - Calculating Employee 221512
+13:15:54  - Calculating Employee 221514
+13:15:57  - Calculating Employee 221515
+13:15:58  - Calculating Employee 221516
+13:16:01  - Calculating Employee 501662
+13:16:02  - Calculating Employee 502023
+13:16:05  - Processing Payroll for Company 1341 - END
+13:16:05  - Processing Complete...
+13:16:05  - Payroll details written to 202008131303-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008131303-PayrollProcessing001.log
+13:16:05 ** Completed job 21005914 (Pay Run) at 13:16:05 on 13-Aug-2020
+End of Job

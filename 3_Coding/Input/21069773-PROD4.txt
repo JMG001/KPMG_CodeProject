@@ -1,0 +1,63 @@
+18-Aug-2020
+09:17:31 ** Starting job 21069773 (Pay Run) at 09:17:31 on 18-Aug-2020
+09:17:33  - Processing Payroll...
+09:17:34  - Processing Payroll for Company 1277 - START
+09:17:34  - Calculating Employee 101819
+09:17:39  - Calculating Employee 101830
+09:17:41  - Calculating Employee 101843
+09:17:43  - Calculating Employee 101868
+09:17:45  - Calculating Employee 101928
+09:17:47  - Calculating Employee 101945
+09:17:49  - Calculating Employee 101971
+09:17:51  - Calculating Employee 101974
+09:17:53  - Calculating Employee 101977
+09:17:55  - Calculating Employee 101982
+09:17:57  - Calculating Employee 101983
+09:17:59  - Calculating Employee 101992
+09:18:01  - Calculating Employee 102001
+09:18:03  - Calculating Employee 102012
+09:18:06  - Calculating Employee 102015
+09:18:11  - Calculating Employee 102016
+09:18:13  - Calculating Employee 102017
+09:18:16  - Calculating Employee 102018
+09:18:18  - Calculating Employee 102020
+09:18:22  - Calculating Employee 102021
+09:18:24  - Calculating Employee 102022
+09:18:26  - Calculating Employee 102024
+09:18:27  - Calculating Employee 500030
+09:18:29  - Calculating Employee 500033
+09:18:31  - Calculating Employee 500052
+09:18:33  - Calculating Employee 500091
+09:18:35  - Calculating Employee 500105
+09:18:36  - Calculating Employee 500166
+09:18:38  - Calculating Employee 500168
+09:18:40  - Calculating Employee 500212
+09:18:42  - Calculating Employee 500336
+09:18:43  - Calculating Employee 500593
+09:18:44  - Calculating Employee 500596
+09:18:46  - Calculating Employee 500787
+09:18:48  - Calculating Employee 500808
+09:18:49  - Calculating Employee 500893
+09:18:51  - Calculating Employee 500938
+09:18:52  - Calculating Employee 501169
+09:18:54  - Calculating Employee 501213
+09:18:56  - Calculating Employee 501214
+09:18:58  - Calculating Employee 501410
+09:19:00  - Calculating Employee 501715
+09:19:02  - Calculating Employee 501938
+09:19:04  - Processing Payroll for Company 1277 - END
+09:19:04  - Processing Complete...
+09:19:04  - Payroll details written to 202008180933-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008180933-PayrollProcessing001.log
+09:19:04 ** The following errors, warnings and informational messages were encountered:
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '10/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '11/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '12/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '13/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '14/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '17/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '18/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '19/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '20/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04  - WARNING: Cannot retrieve information on position '1002' as at '21/08/2020' for employee '102020' with timesheet ending on '21/08/2020'.  The active position '9998' will be used to load this timesheet into Payroll.  Please verify the timesheet Payroll information.
+09:19:04 ** Completed job 21069773 (Pay Run) at 09:19:04 on 18-Aug-2020
+End of Job

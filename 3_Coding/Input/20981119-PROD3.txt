@@ -1,0 +1,47 @@
+11-Aug-2020
+21:05:32 ** Starting job 20981119 (Pay Run) at 21:05:32 on 11-Aug-2020
+21:05:35  - Processing Payroll...
+21:05:36  - Processing Payroll for Company 1288 - START
+21:05:36  - Calculating Employee 206524
+21:05:40  - Calculating Employee 206525
+21:05:42  - Calculating Employee 206526
+21:05:42  - Calculating Employee 206527
+21:05:43  - Calculating Employee 206528
+21:05:44  - Calculating Employee 206529
+21:05:55  - Calculating Employee 206537
+21:05:58  - Calculating Employee 206543
+21:05:59  - Calculating Employee 206575
+21:06:01  - Calculating Employee 206588
+21:06:04  - Calculating Employee 206601
+21:06:06  - Calculating Employee 206606
+21:06:08  - Calculating Employee 206610
+21:06:11  - Calculating Employee 206624
+21:06:13  - Calculating Employee 206630
+21:06:15  - Calculating Employee 206634
+21:06:16  - Calculating Employee 206635
+21:06:19  - Calculating Employee 206636
+21:06:21  - Calculating Employee 206645
+21:06:23  - Calculating Employee 206646
+21:06:25  - Calculating Employee 206648
+21:06:30  - Calculating Employee 206650
+21:06:32  - Calculating Employee 206653
+21:06:34  - Calculating Employee 206655
+21:06:37  - Calculating Employee 206658
+21:06:40  - Calculating Employee 206674
+21:06:43  - Calculating Employee 206679
+21:06:47  - Calculating Employee 206680
+21:06:49  - Calculating Employee 206683
+21:06:53  - Calculating Employee 206684
+21:06:56  - Calculating Employee 206685
+21:06:58  - Calculating Employee 206686
+21:07:00  - Calculating Employee 206687
+21:07:02  - Calculating Employee 206688
+21:07:04  - Calculating Employee 206689
+21:07:06  - Calculating Employee 206690
+21:07:07  - Calculating Employee 206692
+21:07:09  - Calculating Employee 206694
+21:07:10  - Processing Payroll for Company 1288 - END
+21:07:11  - Processing Complete...
+21:07:11  - Payroll details written to 202008112135-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008112135-PayrollProcessing001.log
+21:07:11 ** Completed job 20981119 (Pay Run) at 21:07:11 on 11-Aug-2020
+End of Job

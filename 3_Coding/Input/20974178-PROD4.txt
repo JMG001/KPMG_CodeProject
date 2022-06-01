@@ -1,0 +1,48 @@
+11-Aug-2020
+11:49:51 ** Starting job 20974178 (Pay Run) at 11:49:51 on 11-Aug-2020
+11:49:53  - Processing Payroll...
+11:49:55  - Processing Payroll for Company 1042 - START
+11:49:55  - Calculating Employee 119257
+11:49:58  - Calculating Employee 119306
+11:50:02  - Calculating Employee 119311
+11:50:07  - Calculating Employee 119328
+11:50:10  - Calculating Employee 119331
+11:50:14  - Calculating Employee 119332
+11:50:21  - Calculating Employee 119336
+11:50:25  - Calculating Employee 119371
+11:50:28  - Calculating Employee 119379
+11:50:31  - Calculating Employee 119381
+11:50:33  - Calculating Employee 119382
+11:50:36  - Calculating Employee 119386
+11:50:40  - Calculating Employee 119393
+11:50:44  - Calculating Employee 119397
+11:50:49  - Calculating Employee 119404
+11:50:55  - Calculating Employee 119407
+11:51:02  - Calculating Employee 119409
+11:51:07  - Calculating Employee 119410
+11:51:09  - Calculating Employee 119412
+11:51:12  - Calculating Employee 119413
+11:51:20  - Calculating Employee 119415
+11:51:24  - Calculating Employee 119420
+11:51:26  - Calculating Employee 119421
+11:51:28  - Calculating Employee 119422
+11:51:30  - Calculating Employee 119426
+11:51:32  - Calculating Employee 119427
+11:51:34  - Calculating Employee 119428
+11:51:36  - Calculating Employee 119429
+11:51:38  - Calculating Employee 119430
+11:51:41  - Calculating Employee 119431
+11:51:46  - Calculating Employee 119432
+11:51:53  - Calculating Employee 119433
+11:51:59  - Calculating Employee 119435
+11:52:03  - Calculating Employee 119436
+11:52:09  - Calculating Employee 119437
+11:52:12  - Calculating Employee 119438
+11:52:14  - Calculating Employee 119439
+11:52:16  - Processing Payroll for Company 1042 - END
+11:52:16  - Processing Complete...
+11:52:16  - Payroll details written to 202008111153-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008111153-PayrollProcessing001.log
+11:52:16 ** The following errors, warnings and informational messages were encountered:
+11:52:16  - WARNING: A negative pay has been generated for Employee Id: 119407 and Pay Period End Date: 21-Aug-2020. Normal nett pay amount is -771.79.
+11:52:16 ** Completed job 20974178 (Pay Run) at 11:52:16 on 11-Aug-2020
+End of Job

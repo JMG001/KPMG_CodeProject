@@ -1,0 +1,53 @@
+12-Aug-2020
+10:00:46 ** Starting job 20988072 (Pay Run) at 10:00:46 on 12-Aug-2020
+10:00:48  - Processing Payroll...
+10:00:48  - Processing Payroll for Company 1137 - START
+10:00:48  - Calculating Employee 150842
+10:00:52  - Calculating Employee 150843
+10:00:54  - Calculating Employee 150844
+10:00:55  - Calculating Employee 150845
+10:00:56  - Calculating Employee 150846
+10:00:58  - Calculating Employee 150847
+10:00:59  - Calculating Employee 150848
+10:01:01  - Calculating Employee 150849
+10:01:04  - Calculating Employee 150869
+10:01:09  - Calculating Employee 150942
+10:01:15  - Calculating Employee 150959
+10:01:20  - Calculating Employee 150983
+10:01:24  - Calculating Employee 151022
+10:01:26  - Calculating Employee 151040
+10:01:28  - Calculating Employee 151049
+10:01:30  - Calculating Employee 151050
+10:01:32  - Calculating Employee 151054
+10:01:34  - Calculating Employee 151073
+10:01:38  - Calculating Employee 151076
+10:01:42  - Calculating Employee 151086
+10:01:49  - Calculating Employee 151087
+10:01:51  - Calculating Employee 151090
+10:01:58  - Calculating Employee 151092
+10:02:04  - Calculating Employee 151093
+10:02:11  - Calculating Employee 151105
+10:02:16  - Calculating Employee 151112
+10:02:20  - Calculating Employee 151125
+10:02:23  - Calculating Employee 151138
+10:02:27  - Calculating Employee 151139
+10:02:30  - Calculating Employee 151140
+10:02:32  - Calculating Employee 151142
+10:02:34  - Calculating Employee 151143
+10:02:37  - Calculating Employee 151144
+10:02:40  - Calculating Employee 151145
+10:02:42  - Calculating Employee 151146
+10:02:45  - Calculating Employee 151148
+10:02:47  - Calculating Employee 151149
+10:02:50  - Calculating Employee 502057
+10:02:52  - Calculating Employee 502059
+10:02:53  - Calculating Employee 502063
+10:02:55  - Calculating Employee 502064
+10:02:57  - Processing Payroll for Company 1137 - END
+10:02:57  - Processing Complete...
+10:02:57  - Payroll details written to 202008121048-PayrollProcessing001.log#cilink://finprod/action=vsf&dc=PAYLOG&fn=202008121048-PayrollProcessing001.log
+10:02:57 ** The following errors, warnings and informational messages were encountered:
+10:02:57  - ERROR: No Banking Records Exist for Employee 151087.
+10:02:57  - ERROR: Account Validation error for Employee 502059. You do not have security access to Account Number 'E1349.000.20010.000'. The PickList provides a list of choices
+10:02:57 ** Job 20988072 (Pay Run) Failed at 10:02:57 on 12-Aug-2020
+End of Job
