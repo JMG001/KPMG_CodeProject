@@ -15,4 +15,4 @@ These parameters ensure the environment can be re-used across multiple VPCs as a
 Ideally I'd like to add in Multiple AZ's to allow for Autosclaing groups and secondary RDS nodes, and ELB and public access mechanims/security such as Route 53 and WAF.
 Further security could also be added between the tiers (Web and DB) to ensure only traffic from the specific resources in the Architecture Diagram are allowed. This script assumes there is already an existing VPC configured, however this could also be added with parameters to ensure a quick build scratch via template. Refinement around disc on the EC2 instances could also be added, as I haven't included the option to pick storage types.
 
-Also the ability to automate the IIS installation and configuration, Web App deployment and RDS schema and data configuration would be a handy addition to this process.
+Also the ability to automate the IIS installation and configuration, Web App deployment and RDS schema and data configuration would be a handy addition to this process. Otherwise, building this into the base AMI might be acceptable and more robust moving forward.
