@@ -1,3 +1,4 @@
+#Create Stack
 aws cloudformation create-stack \
     --stack-name SimpleAppStack \
     --template-body file://BuildInfra.json \
@@ -8,4 +9,4 @@ if ! [ "$?" = "0" ]; then
 fi
 
 #Wait for completion
-waitForState SimpleAppStack "CREATE_COMPLETE"
+waitForState SimpleAppStack "STACK_CREATE_COMPLETE"
